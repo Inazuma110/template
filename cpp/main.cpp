@@ -7,6 +7,7 @@
 #include <set>
 #include <map>
 #include <queue>
+#include <numeric>
 
 #define FOR(i, f, n) for(int (i) = (f); (i) < (n); (i)++)
 #define RFOR(i, f, n) for(int (i) = (f); (i) >= (n); (i)--)

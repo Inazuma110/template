@@ -1,4 +1,4 @@
 14:
-	g++ -std=c++14 main.cpp && cat input | ./a.out
+	g++ -std=c++14 main.cpp -Wall -g -fsanitize=undefined -D_GLIBCXX_DEBUG && cat input | ./a.out > output
 11:
-	g++ -std=c++11 main.cpp && cat input | ./a.out
+	g++ -std=c++11 main.cpp -Wall -g -fsanitize=undefined -D_GLIBCXX_DEBUG && cat input | ./a.out > output

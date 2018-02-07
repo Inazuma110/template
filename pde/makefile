@@ -1,2 +1,5 @@
 b:
-	~/processing-3.0.1/processing-java --sketch=../@@@ --output=./outputByProcessing --force --run
+	java
+
+pde:
+	~/my/pde/processing-java --sketch=../@@@ --output=./outputByProcessing --force --run

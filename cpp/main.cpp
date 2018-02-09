@@ -7,6 +7,7 @@
 #include <set>
 #include <map>
 #include <queue>
+#include <stack>
 #include <numeric>
 #include <regex>
 
@@ -15,7 +16,7 @@
 #define REP(i, n) for(int (i) = 0; (i) < (n); (i)++)
 #define RREP(i, n) for(int (i) = (n); (i) >= 0; (i)--)
 #define rep(i, n) for(int (i) = 0; (i) < (n); (i)++)
-#define rrep(i, n) for(int (i) = (n); (i) >= 0; (i)++)
+#define rrep(i, n) for(int (i) = (n); (i) >= 0; (i)--)
 #define p(...) printf(__VA_ARGS__); cout << endl;
 #define in(...) __VA_ARGS__; input__(__VA_ARGS__);
 #define input(...) in(__VA_ARGS__)

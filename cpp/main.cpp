@@ -17,6 +17,7 @@
 #define RREP(i, n) for(int (i) = (n); (i) >= 0; (i)--)
 #define rep(i, n) for(int (i) = 0; (i) < (n); (i)++)
 #define rrep(i, n) for(int (i) = (n); (i) >= 0; (i)--)
+#define forin(i, a) for(auto i: (a))
 #define p(...) printf(__VA_ARGS__); cout << endl;
 #define in(...) __VA_ARGS__; input__(__VA_ARGS__);
 #define input(...) in(__VA_ARGS__)
@@ -25,6 +26,7 @@
 #define list_input(x, n) x[(n)]; for(int (i) = 0; (i) < (n); (i)++) cin >> x[i];
 #define lambda(a, b, c) [](auto const &a, auto const &b){ return c ;}
 #define key(t, x, compare) [](const t &a, const t &b){ return a x compare b x ;}
+#define unless(a) if(!(a))
 
 using namespace std;
 

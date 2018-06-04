@@ -9,7 +9,7 @@ typedef long long ll;
 typedef pair<int,int> p;
 
 
-int main(void)
+int main()
 {
 
   return 0;

@@ -7,7 +7,7 @@ using namespace std;
 #define rall(x) (x).rbegin(), (x).rend()
 #define itn int
 typedef long long ll;
-typedef pair<int,int> p;
+typedef pair<ll,ll> p;
 
 
 int main()

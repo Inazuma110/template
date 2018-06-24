@@ -1,3 +1,3 @@
 b:
-	platex report.tex
+	uplatex report.tex
 	dvipdfmx report.dvi

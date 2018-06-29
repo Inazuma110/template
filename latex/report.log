@@ -1,4 +1,4 @@
-This is e-upTeX, Version 3.14159265-p3.7.1-u1.22-161114-2.6 (utf8.uptex) (TeX Live 2017/Debian) (preloaded format=uplatex 2018.6.8)  24 JUN 2018 12:33
+This is e-upTeX, Version 3.14159265-p3.7.1-u1.22-161114-2.6 (utf8.uptex) (TeX Live 2017/Debian) (preloaded format=uplatex 2018.6.8)  29 JUN 2018 13:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -97,39 +97,39 @@ Package: listings 2007/02/22 1.4 (Carsten Heinz)
  (./report.aux)
 \openout1 = `report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for JY2/mc/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for JT2/mc/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for JY2/mc/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for JT2/mc/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
 \c@lstlisting=\count99
 LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
-(Font)              scaled to size 15.9785pt on input line 24.
+(Font)              scaled to size 15.9785pt on input line 10.
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
-(Font)              scaled to size 15.9785pt on input line 24.
+(Font)              scaled to size 15.9785pt on input line 10.
 LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
-(Font)              scaled to size 11.09619pt on input line 24.
+(Font)              scaled to size 11.09619pt on input line 10.
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
-(Font)              scaled to size 11.09619pt on input line 24.
+(Font)              scaled to size 11.09619pt on input line 10.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 24.
+(Font)              <12> on input line 10.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 24.
+(Font)              <8> on input line 10.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 24.
+(Font)              <6> on input line 10.
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
-(Font)              scaled to size 5.5481pt on input line 24.
+(Font)              scaled to size 5.5481pt on input line 10.
  [1
 
 ] (./report.aux) ) 

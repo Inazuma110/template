@@ -13,6 +13,5 @@ typedef pair<ll,ll> p;
 
 int main()
 {
-  #define int long long
 
 }

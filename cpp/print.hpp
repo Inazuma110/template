@@ -1,4 +1,7 @@
+// #ifndef bits/stdc++.h
 #include <bits/stdc++.h>
+// #endif /* end of include guard */
+
 using namespace std;
 
 struct Container;

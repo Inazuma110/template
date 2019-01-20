@@ -1,5 +1,5 @@
-using namespace std;
 #include <bits/stdc++.h>
+using namespace std;
 
 #if __has_include("print.hpp")
   #include "print.hpp"

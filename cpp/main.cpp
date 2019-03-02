@@ -15,5 +15,4 @@ typedef pair<int, int> p;
 
 
 int main(){
-  cout << MOD << endl;
 }

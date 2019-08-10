@@ -11,7 +11,7 @@ using namespace std;
 #define MOD 1000000007
 
 typedef long long ll;
-typedef pair<int, int> p;
+typedef pair<ll, ll> p;
 
 
 int main(){

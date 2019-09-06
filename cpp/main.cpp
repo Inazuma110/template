@@ -1,4 +1,7 @@
 #include <bits/stdc++.h>
+#include <boost/multiprecision/cpp_int.hpp>
+
+using boost::multiprecision::cpp_int;
 using namespace std;
 
 #if __has_include("print.hpp")

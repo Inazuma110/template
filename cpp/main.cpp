@@ -1,8 +1,10 @@
 #include <bits/stdc++.h>
 #include <boost/multiprecision/cpp_int.hpp>
+#include <atcoder/all>
 
 using boost::multiprecision::cpp_int;
 using namespace std;
+using namespace atcoder;
 
 #if __has_include("print.hpp")
   #include "print.hpp"
